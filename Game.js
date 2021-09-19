@@ -117,35 +117,35 @@ class Game {
           }
          
           if (player.index===1){
-            p1 = createSprite(130,615);
+            p1 = createSprite(1135,600);
             p1.addImage(p_1);
             p1.scale = 0.7;
         
-            p2 = createSprite(410,606);
+            p2 = createSprite(1180,455);
             p2.addImage(p_2);
             p2.scale =  0.7;
         
-            p3 = createSprite(335,540);
+            p3 = createSprite(1090,455);
             p3.addImage(p_3);
             p3.scale =  0.7;
            
-            p4 = createSprite(520,550);
+            p4 = createSprite(1320,410);
             p4.addImage(p_4);
             p4.scale =  0.7;
         
-            n1 = createSprite(1135,600);
+            n1 = createSprite(130,615);
             n1.addImage(n_1);
             n1.scale =  0.7;
         
-            n2 = createSprite(1180,455);
+            n2 = createSprite(410,606);
             n2.addImage(n_2);
             n2.scale =  0.7;
         
-            n3 = createSprite(1090,455);
+            n3 = createSprite(335,540);
             n3.addImage(n_3);
             n3.scale =  0.7;
         
-            n4 = createSprite(1320,410);
+            n4 = createSprite(520,550);
             n4.addImage(n_4);
             n4.scale =  0.7;        
 
@@ -180,35 +180,35 @@ class Game {
            }          
           
           if (player.index===2){
-            p1 = createSprite(1135,600);
+            p1 = createSprite(130,615);
             p1.addImage(p_1);
             p1.scale = 0.7;
         
-            p2 = createSprite(1180,455);
+            p2 = createSprite(410,606);
             p2.addImage(p_2);
             p2.scale =  0.7;
         
-            p3 = createSprite(1090,455);
+            p3 = createSprite(335,540);
             p3.addImage(p_3);
             p3.scale =  0.7;
            
-            p4 = createSprite(1320,410);
+            p4 = createSprite(520,550);
             p4.addImage(p_4);
             p4.scale =  0.7;
 
-            n1 = createSprite(130,615);
+            n1 = createSprite(1135,600);
             n1.addImage(n_1);
             n1.scale =  0.7;
         
-            n2 = createSprite(410,606);
+            n2 = createSprite(1180,455);
             n2.addImage(n_2);
             n2.scale =  0.7;
         
-            n3 = createSprite(335,540);
+            n3 = createSprite(1090,455);
             n3.addImage(n_3);
             n3.scale =  0.7;
         
-            n4 = createSprite(520,550);
+            n4 = createSprite(1320,410);
             n4.addImage(n_4);
             n4.scale =  0.7;        
 
